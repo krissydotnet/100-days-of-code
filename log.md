@@ -1,5 +1,29 @@
 # 100 Days Of Code - Log
 
+### Day 1:  September 12, 2018
+
+**Today's Progress**:  Completed Introduction to Basic HTML and HTML5 and 3/4 of Basic CSS on freecodecamp.org.  I started creating a contact page for dotnetMomma site I'm working on.
+
+**Thoughts:** Most of the information was review.  There were a few points that were new to me or I had forgotten.  1)  You can set the margin to a negative value.  2)  You can select an attribute in CSS  [type='radio'] { }.   3)  You can use !important in CSS to make sure a style will override all other styles applied to a selector.
+
+**Link to work:** None today
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)
 
