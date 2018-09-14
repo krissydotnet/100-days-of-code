@@ -19,4 +19,10 @@ position: absolute, position: fixed, float, z-index, margin: auto.  I did some c
 **Link to work:** None today having issues with GitHub Desktop pushing the work I've committed.
 
 
+### Day 3:  September 14, 2018
 
+**Today's Progress**:  Continued work on Applied Visual Design on freecodecamp.org.  
+
+**Thoughts:** Things that I practiced to get a better understanding of colors, finding complementary colors, changing the hue hsl, gradients (linear-gradient/repeating-linear-gradient) and setting the background image.  I had a question about what the difference between background and background-image.  According to w3schools background is just shorthand for background-image and other background settings in css.
+
+**Link to work:** None today still having issues pushing from GitHub desktop.  Will have to look at it next week.
