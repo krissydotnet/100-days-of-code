@@ -26,3 +26,11 @@ position: absolute, position: fixed, float, z-index, margin: auto.  I did some c
 **Thoughts:** Things that I practiced to get a better understanding of colors, finding complementary colors, changing the hue hsl, gradients (linear-gradient/repeating-linear-gradient) and setting the background image.  I had a question about what the difference between background and background-image.  According to w3schools background is just shorthand for background-image and other background settings in css.
 
 **Link to work:** None today still having issues pushing from GitHub desktop.  Will have to look at it next week.
+
+### Day 4:  September 15, 2018
+
+**Today's Progress**:  Learned how to make a heart with CSS and transforms on #freecodecamp.  Did a few lessons on #edX HTML5 and CSS Fundamentals.  
+
+**Thoughts:** Did some practice with transforms: scale, skewX, skewY, rotate, ::after, ::before.  Some of the lessons on edX HTML5 for article, section left me with some questions.  When should I use them and it differs from what I've learned so far on freecodecamp and Prograte which uses divs instead of article and section.  
+
+**Link to work:** None today.
