@@ -34,3 +34,11 @@ position: absolute, position: fixed, float, z-index, margin: auto.  I did some c
 **Thoughts:** Did some practice with transforms: scale, skewX, skewY, rotate, ::after, ::before.  Some of the lessons on edX HTML5 for article, section left me with some questions.  When should I use them and it differs from what I've learned so far on freecodecamp and Prograte which uses divs instead of article and section.  
 
 **Link to work:** None today.
+
+### Day 5 & 6:  September 16 - 17, 2018
+
+**Today's Progress**:  Learned about transforms and animations.  I completed the Applied Visual Design section of freecodecamp.
+
+**Thoughts:** I worked on this while on vacation so I didn't have a lot of time to practice.  I practiced working with animations and transforms.  I was going to add some animations to my dotnetmomma project.
+
+**Link to work:** None today.
