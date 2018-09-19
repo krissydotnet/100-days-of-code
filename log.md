@@ -42,3 +42,12 @@ position: absolute, position: fixed, float, z-index, margin: auto.  I did some c
 **Thoughts:** I worked on this while on vacation so I didn't have a lot of time to practice.  I practiced working with animations and transforms.  I was going to add some animations to my dotnetmomma project.
 
 **Link to work:** None today.
+
+### Day 7:  September 18, 2018
+
+**Today's Progress**:  Completed Applied Accessibility on freecodecamp, almost completed Module 2 on edX HTML5 & CSS and day 1 of Intro to JavaScript on MomsCanCode.
+
+**Thoughts:** I didn't have time to practice all of the concepts covered today.  I will do some practice on the concepts covered tomorrow and make changes to dotnetmomma project to apply the concepts.
+
+**Link to work:** None today.
+
