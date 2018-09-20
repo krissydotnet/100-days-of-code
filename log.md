@@ -51,3 +51,11 @@ position: absolute, position: fixed, float, z-index, margin: auto.  I did some c
 
 **Link to work:** None today.
 
+### Day 8:  September 19, 2018
+
+**Today's Progress**:  Completed Responsive Web Design, CSS Flexbox and CSS Grid on freecodecamp.    Worked with the kids this afternoon build a lego case for their Raspberry Pi's.  
+
+**Thoughts:** I've got flexbox, but I still need to work on css grid some more.
+
+**Link to work:** None today.
+
